@@ -1,0 +1,3 @@
+My name is Sena Ofori-Duodu, and I am an aspiring technology professional with a strong interest in building practical, scalable digital solutions. I am currently focused on developing my skills in software development, version control, and modern web technologies, with the goal of creating tools that solve real-world problems.
+
+I am particularly interested in learning through hands-on projects and collaborative environments. This repository represents an early step in my journey to strengthen my technical foundation and adopt industry-standard workflows such as Git and GitHub for code management and collaboration.
